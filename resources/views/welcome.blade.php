@@ -39,7 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5 aparajita Bhattacharjee.....</div>
-                my first change
+                my first change</br>My second change
             </div>
         </div>
     </body>
