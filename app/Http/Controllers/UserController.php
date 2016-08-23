@@ -8,5 +8,8 @@ use App\Http\Requests;
 
 class UserController extends Controller
 {
-   echo '123'; //
+   public function test()
+   {
+   		echo "hello";
+   }
 }
