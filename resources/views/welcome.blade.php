@@ -39,7 +39,8 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5 aparajita.....<br>
-                My First COMMIT 24/08/2016
+                548975
+                
                 </div>
                 </div>
 
