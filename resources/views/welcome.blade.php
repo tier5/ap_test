@@ -40,7 +40,7 @@
             <div class="content">
 
                 <div class="title">Laravel 5 aparajita.....<br>
-                My First COMMIT in about usokihgighj
+                My First COMMIT 24/08/2016
 
 
 
